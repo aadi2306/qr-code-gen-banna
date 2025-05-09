@@ -15,6 +15,3 @@ A simple and fast web app to generate QR codes from any URL — with download an
 ## 🚀 Live Demo
 
 👉 [Click here to use the app](https://aadi2306.github.io/qr-code-gen-banna/)
-
-## 📁 Project Structure
-
